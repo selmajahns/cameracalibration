@@ -1,0 +1,5 @@
+numpy>=1.26.0
+opencv-python
+h5py
+pyyaml
+# Metavision SDK: installato tramite pacchetti di sistema (apt install metavision-sdk)
